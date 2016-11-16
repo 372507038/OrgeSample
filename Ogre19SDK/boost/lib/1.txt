@@ -1,0 +1,18 @@
+ 驱动器 F 中的卷是 dev
+ 卷的序列号是 9AA6-FF33
+
+ F:\Project\2016\Render\Ogre19SDK\boost\lib 的目录
+
+2016/11/16 周三  21:33    <DIR>          .
+2016/11/16 周三  21:33    <DIR>          ..
+2016/11/16 周三  21:33                 0 1.txt
+2013/11/23 周六  02:21           480,744 libboost_chrono-vc110-mt-1_55.lib
+2013/11/23 周六  05:15         2,058,624 libboost_chrono-vc110-mt-gd-1_55.lib
+2013/11/23 周六  02:21           762,872 libboost_date_time-vc110-mt-1_55.lib
+2013/11/23 周六  05:16         2,795,226 libboost_date_time-vc110-mt-gd-1_55.lib
+2013/11/23 周六  02:21           132,104 libboost_system-vc110-mt-1_55.lib
+2013/11/23 周六  05:15           598,158 libboost_system-vc110-mt-gd-1_55.lib
+2013/11/23 周六  02:06         1,083,474 libboost_thread-vc110-mt-1_55.lib
+2013/11/23 周六  05:18         3,503,298 libboost_thread-vc110-mt-gd-1_55.lib
+               9 个文件     11,414,500 字节
+               2 个目录  3,275,837,440 可用字节

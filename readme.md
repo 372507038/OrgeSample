@@ -1,2 +1,6 @@
 # Render
-A simple 3d Graphic Render demo for  learn opengl
+learning thirdparty grpahic engine  
+
+learning list 
+Ogre
+Osg
